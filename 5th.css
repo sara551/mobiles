@@ -1,0 +1,171 @@
+h4{
+    font-weight:300px;
+    font-size: 100px;
+    color: #06efe2;
+  
+}
+h5{
+    font-size:30px;
+    font-weight: 300px;
+    color: #06efe2;
+}
+.badge{
+    margin: 50px;
+    width: 190px;
+    background-color:#06efe2;
+    padding:15px;
+}
+hr{
+   background-color:darkslategrey;
+    height:3px;
+}
+.btn{
+    background-color: #06efe2;
+    margin:;
+}
+#PIC1{
+    background-image: url("img/52.jpeg");
+    height: 350px;
+    width: 160px;
+    background-repeat: no-repeat;
+    
+}
+#PIC1:hover{
+    background-image: url("img/53.jpeg");
+           height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic2{
+    background-image: url("img/54.jpg");
+           height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic2:hover{
+    background-image: url("img/55.png");
+           height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic3{
+    background-image: url("img/62.jpeg");
+           height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic3:hover{
+    background-image: url("img/65.jpeg");
+           height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic4{
+    background-image: url("img/57.jpeg");
+           height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic4:hover{
+    background-image: url("img/63.jpeg");
+           height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}#pic5{
+    background-image: url("img/images%20(1).jpg");
+               height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic5:hover{
+    background-image: url("img/images.jpg");
+               height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}#pic6
+{
+    background-image: url("img/images%20(19).jpeg");
+               height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic6:hover{
+    background-image: url("img/download%20(1).jpg");
+               height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}#pic7
+{
+    background-image: url("img/images%20(21).jpeg");
+               height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic7:hover{
+    background-image: url("img/images%20(23).jpeg");
+               height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic8{
+    background-image: url("img/images%20(24).jpeg");
+               height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic8:hover{
+    background-image: url("img/images%20(26).jpeg");
+     height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic9{
+    background-image: url("img/58.jpeg");
+               height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic9:hover{
+    background-image: url("img/64.jpeg");
+               height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic10{
+    background-image: url("img/60.jpeg");
+               height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic10:hover{
+    background-image: url("img/67.jpeg");
+    height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic11{
+    background-image: url("img/61.jpeg");
+        height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+    
+    
+}
+#pic11:hover{
+    background-image: url("img/66.jpeg");
+    height: 340px;
+    width: 160px;
+    background-repeat: no-repeat;
+}#pic12{
+    background-image: url("img/56.jpeg");
+        height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+#pic12:hover{
+    background-image: url("img/68.jpeg");
+        height: 330px;
+    width: 160px;
+    background-repeat: no-repeat;
+}
+
